@@ -12,7 +12,7 @@ Today I learned 23 essential Linux commands. These are the foundation of cloud e
 
 ---
 ## What I Understood Today
-"The terminal is not scary , it is text bases way to controll my computer nice experience I learned that Linux commands are like giving direct instructions to the computer. The terminal looks scary but it's actually faster than using a mouse. I understand that `pwd` always tells me where I am, `cd` moves me around, and `ls` shows me what's there. The home directory (`~`) is my safe place to practice. "
+I understand that Linux is the operating system that runs most cloud servers. The commands I learned today (`pwd`, `ls`, `cd`, `mkdir`, `rm`) are things I will use every single day as a cloud engineer. I also learned that the terminal is not magic - it just follows commands exactly as I type them. The most important thing I understood is to always type `pwd` before doing anything so I know exactly where I am.
 
 ## What Was Confusing
 "at the statrting it was very confusing that how to remember all command but praticing this ofentlt its made easy to handle all stuffs"
