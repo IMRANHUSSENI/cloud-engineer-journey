@@ -15,11 +15,17 @@ Today I learned 23 essential Linux commands. These are the foundation of cloud e
 I understand that Linux is the operating system that runs most cloud servers. The commands I learned today (`pwd`, `ls`, `cd`, `mkdir`, `rm`) are things I will use every single day as a cloud engineer. I also learned that the terminal is not magic - it just follows commands exactly as I type them. The most important thing I understood is to always type `pwd` before doing anything so I know exactly where I am.
 
 ## What Was Confusing
-"at the statrting it was very confusing that how to remember all command but praticing this ofentlt its made easy to handle all stuffs"
+The permission symbols `rwxr-xr-x` are confusing to me. I understand r=read, w=write, x=execute, but I don't know when to use `chmod` yet. Also, the difference between `>` and `>>` took me a few tries to get right.
 
 ## Reflection
 
 **On a scale of 1-10, how comfortable am I with the terminal?** [8]
+
+**What was the hardest part today?** 
+Remembering to type `cd ~` when I got lost. I ended up in `/mnt/c/Windows/system32` accidentally.
+
+**What am I excited to learn next?**
+How to connect to cloud servers using SSH and how to write bash scripts to automate things.
 
 
 **What am I excited to learn next?** [Great learning of command for crationg files and navigating to directory]
