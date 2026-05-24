@@ -49,7 +49,7 @@
 | Day | Date | Topic | Hours | Key Learning |
 |-----|------|-------|-------|--------------|
 | 1 | May 23, 2026 | Linux Commands | 3 | 23 commands: pwd, ls, cd, mkdir, cp, mv, rm, grep, find, etc. |
-| 2 | - | - | - | - |
+| 2 | May 24, 2026 | Linux + Bash Scripting | 2 | 6 new commands: head, tail, wc, sort, uniq, history + first bash script |
 
 ---
 
